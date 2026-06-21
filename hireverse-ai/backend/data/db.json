@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": "54396c9f-04a3-467d-9aee-7e49eb850c53",
+      "name": "shivam maurya",
+      "email": "aniheshmaurya456@gmail.com",
+      "password": "$2a$10$1Ktyx5Gi7.k49626jINdbeqm38csIgM7QUPPqgS5h8Hp56F0Y8BN.",
+      "role": "candidate",
+      "createdAt": "2026-06-21T07:35:15.219Z"
+    }
+  ],
+  "resumes": [],
+  "assessments": [
+    {
+      "id": "396d4052-6b45-49d2-8fc2-edaa887ead11",
+      "userId": "54396c9f-04a3-467d-9aee-7e49eb850c53",
+      "correct": 5,
+      "total": 22,
+      "scorePercent": 23,
+      "sectionResults": {
+        "dsa": {
+          "correct": 2,
+          "total": 5
+        },
+        "oop": {
+          "correct": 1,
+          "total": 4
+        },
+        "dbms": {
+          "correct": 0,
+          "total": 4
+        },
+        "os": {
+          "correct": 2,
+          "total": 3
+        },
+        "cn": {
+          "correct": 0,
+          "total": 3
+        },
+        "aptitude": {
+          "correct": 0,
+          "total": 3
+        }
+      },
+      "createdAt": "2026-06-21T07:38:30.670Z"
+    }
+  ],
+  "codingSubmissions": [],
+  "interviews": [],
+  "reports": [
+    {
+      "id": "a61c6a35-25d4-4c49-843c-acb365dc1738",
+      "userId": "54396c9f-04a3-467d-9aee-7e49eb850c53",
+      "atsScore": 0,
+      "recruiterFit": 0,
+      "assessmentScore": 0,
+      "codingScore": 0,
+      "codeQualityScore": 0,
+      "tech1Score": 0,
+      "tech2Score": 0,
+      "hrScore": 0,
+      "hiringProbability": 0,
+      "verdict": "Incomplete pipeline",
+      "roadmap": [
+        "Upload your resume to start the ATS screening module."
+      ],
+      "pipelineComplete": false,
+      "generatedAt": "2026-06-21T07:37:47.586Z"
+    },
+    {
+      "id": "ca64840f-e3f6-45ce-8915-25244af7f8ae",
+      "userId": "54396c9f-04a3-467d-9aee-7e49eb850c53",
+      "atsScore": 0,
+      "recruiterFit": 0,
+      "assessmentScore": 0,
+      "codingScore": 0,
+      "codeQualityScore": 0,
+      "tech1Score": 0,
+      "tech2Score": 0,
+      "hrScore": 0,
+      "hiringProbability": 0,
+      "verdict": "Incomplete pipeline",
+      "roadmap": [
+        "Upload your resume to start the ATS screening module."
+      ],
+      "pipelineComplete": false,
+      "generatedAt": "2026-06-21T07:37:47.645Z"
+    },
+    {
+      "id": "a116f195-d6a4-4716-9490-c64a629181d4",
+      "userId": "54396c9f-04a3-467d-9aee-7e49eb850c53",
+      "atsScore": 0,
+      "recruiterFit": 0,
+      "assessmentScore": 23,
+      "codingScore": 0,
+      "codeQualityScore": 0,
+      "tech1Score": 0,
+      "tech2Score": 0,
+      "hrScore": 0,
+      "hiringProbability": 23,
+      "verdict": "Incomplete pipeline",
+      "roadmap": [
+        "Revise core CS fundamentals — DSA, DBMS, OS, and CN.",
+        "Upload your resume to start the ATS screening module."
+      ],
+      "pipelineComplete": false,
+      "generatedAt": "2026-06-21T07:40:56.291Z"
+    },
+    {
+      "id": "69c4febf-2b0d-4ef6-b1ff-97fba470c958",
+      "userId": "54396c9f-04a3-467d-9aee-7e49eb850c53",
+      "atsScore": 0,
+      "recruiterFit": 0,
+      "assessmentScore": 23,
+      "codingScore": 0,
+      "codeQualityScore": 0,
+      "tech1Score": 0,
+      "tech2Score": 0,
+      "hrScore": 0,
+      "hiringProbability": 23,
+      "verdict": "Incomplete pipeline",
+      "roadmap": [
+        "Revise core CS fundamentals — DSA, DBMS, OS, and CN.",
+        "Upload your resume to start the ATS screening module."
+      ],
+      "pipelineComplete": false,
+      "generatedAt": "2026-06-21T07:40:56.317Z"
+    }
+  ]
+}
